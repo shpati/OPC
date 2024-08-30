@@ -1,6 +1,6 @@
 # OPC
  
-Option Pricing Calculator
+Option Pricing Calculator. Written in Delphi 2.
 
 This calculator is based on the Black-Scholes Option Pricing Model. 
 
